@@ -1,4 +1,6 @@
 # understanding_the_factors_that_influence_popularity_of_apps
 Technological advancements especially in the mobile field have started to demand the need for mobile applications to not just survive but thrive in the business world of today. There is an inherent need to be fast, cheap and efficient to conquer the mobile market. In order to be durable, there is a need to understand the factors that affect the popularity or likeability of these mobile apps among the users. Rating in the app distribution platform is a significant performance metric for measuring how well an app is doing in the app market. It is important to explore the factors which affect the popularity in order to develop competitive applications, understand where to invest time or money, and succeed in the business world. This research presents a case study, involving quantitative studies performed on the two most leading mobile markets - Google Inc.'s Play store and Apple Inc.'s App store. Thus, our approach is to perform quantitative data analysis on these stores with a desire to effectively investigate and communicate the findings of this case study.
+
+
 Keywords: Mobile applications, Mobile apps marketing, Mobile software engineering, Software popularity.
 
